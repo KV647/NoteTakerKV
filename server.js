@@ -1,3 +1,4 @@
+// In collaboration with Sam W. and Kenny R.
 const express = require('express');
 const path = require('path');
 const api = require('./routes/index.js');
